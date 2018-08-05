@@ -1,0 +1,137 @@
+.market-cap-title, .market-cap-updown {
+  font-family: Roboto
+}
+
+.card-body {
+  background-color: #151c5b;
+  color: #fff !important
+}
+
+.market-cap-title {
+  font-size: 26px;
+  color: #0dcafe;
+  font-weight: 700;
+  line-height: 1.385
+}
+
+.text-success {
+  color: #00ce62 !important
+}
+
+.market-cap-updown {
+  font-size: 22px
+}
+
+.market-cap-value {
+  font-size: 28px;
+  font-family: Nunito;
+  color: #dce2ff;
+  font-weight: 700
+}
+
+.market-cap-link {
+  font-size: 20px;
+  font-family: Roboto;
+  color: #1f71c3;
+  text-transform: uppercase
+}
+
+body {
+  background-image: -moz-linear-gradient(90deg, #141857 0, #141857 100%);
+  background-image: -webkit-linear-gradient(90deg, #141857 0, #141857 100%);
+  background-image: -ms-linear-gradient(90deg, #141857 0, #141857 100%)
+}
+
+.card {
+  border: none
+}
+
+.market-text-red, .text-danger {
+  color: #ff455c !important
+}
+
+.card-header {
+  background-color: #06113d
+}
+
+.text-primary {
+  color: #0dcafe !important
+}
+
+.form-control {
+  background-color: #111e50
+}
+
+.form-control:focus {
+  background-color: #263d95;
+  color: #fff
+}
+
+.buy-sell-text-white {
+  color: #dce2ff
+}
+
+.buy-sell-amt {
+  font-size: 48px
+}
+
+.btn-danger {
+  background-color: #ff595f
+}
+
+.btn-success {
+  background-color: #00b36b
+}
+
+.orderbook-history-table-body {
+  height: 10px;
+  overflow: auto
+}
+
+.header-fixed {
+  width: 100%
+}
+
+.header-fixed > tbody, .header-fixed > tbody > tr, .header-fixed > tbody > tr > td, .header-fixed > thead, .header-fixed > thead > tr, .header-fixed > thead > tr > th {
+  display: block
+}
+
+.header-fixed > tbody > tr:after, .header-fixed > thead > tr:after {
+  content: ' ';
+  display: block;
+  visibility: hidden;
+  clear: both
+}
+
+.header-fixed > tbody {
+  overflow-y: auto;
+  height: auto;
+  max-height: 300px
+}
+
+.header-fixed > tbody > tr > td, .header-fixed > thead > tr > th {
+  width: 33%;
+  float: left
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: #14235e
+}
+
+.table td, .table th {
+  border-top: none
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  background-color: #0c0f41;
+  border: none
+}
+
+.table thead th {
+  border-bottom: none
+}
+
+thead {
+  color: #0dcafe !important
+}
+
